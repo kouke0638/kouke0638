@@ -8,5 +8,5 @@ Learning C/C++, Python, Java, Javascript, Systems Network Architecture(SNA), ML,
 
 # Statistics
 
-![GitHub - Language Stats](https://github-readme-stats.vercel.app/api?username=kouke0638&layout=compact&theme=vue-dark)
+![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kouke0638&layout=compact&theme=vue-dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kouke0638&layout=compact&theme=vue-dark)
