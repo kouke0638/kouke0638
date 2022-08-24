@@ -26,10 +26,13 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - HITCON 2022
 
 
-## Job Position
+## Experience
 
+- YCS - Backend Engineer(AIoT) / Software department.
+- MouchiLab - Cloud Solution Architect.
+- YHSG - Network Engineer / MIS Manager.
 - NMNC - Volunteer / Guide.
-- K-12 Porject - Web system design
+- K-12 Porject - Web system design / UI design
 - CISC - Administrative Manager / Publicity department.
 - NHDK - Administrative Manager / Public Relations Department.
 - Lipoic - Administrative Specialist / Artistic Design Department.
