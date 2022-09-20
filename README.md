@@ -16,7 +16,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - Architecture design
 
   
-## Activity Participation
+## Activities Participation
   
 - SITCON 2021
 - Taipei Hackathon 2021
