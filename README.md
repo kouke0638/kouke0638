@@ -22,6 +22,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - Taipei Hackathon 2021
 - g0v Sch001 DEMO DAY 2021-2022
 - SCAICT & AIS3 2022 『逆向攻城』
+- NHDK Algorithm Camp
 - COSCUP 2022
 - HITCON 2022
 
@@ -36,7 +37,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - CISC - Administrative Manager / Publicity department.
 - NHDK - Administrative Manager / Public Relations Department.
 - Lipoic - Administrative Specialist / Artistic Design Department.
-  
+- High School Career Exploration - Teaching Assistant.
 
 
 # Statistics
