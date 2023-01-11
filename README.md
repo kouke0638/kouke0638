@@ -25,6 +25,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - NHDK Algorithm Camp
 - COSCUP 2022
 - HITCON 2022
+- AI CUP 2022 Crop Status Survey Image Recognition
 
 
 ## Experience
