@@ -26,6 +26,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - COSCUP 2022
 - HITCON 2022
 - AI CUP 2022 Crop Status Survey Image Recognition
+- COSCUP 2023
 
 
 ## Experience
@@ -39,6 +40,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - NHDK - Administrative Manager / Public Relations Department.
 - Lipoic - Administrative Specialist / Artistic Design Department.
 - High School Career Exploration - Teaching Assistant.
+- SCINT - Vice General Manager of Organization
 
 
 # Statistics
