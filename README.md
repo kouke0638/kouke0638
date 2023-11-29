@@ -27,7 +27,9 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - HITCON 2022
 - AI CUP 2022 Crop Status Survey Image Recognition
 - COSCUP 2023
-
+- AI GO 2023
+- Smart manufacturing big data analysis 2023
+- Cyber Security Competition 2023
 
 ## Experience
 
