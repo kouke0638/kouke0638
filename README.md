@@ -43,6 +43,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - Lipoic - Administrative Specialist / Artistic Design Department.
 - High School Career Exploration - Teaching Assistant.
 - SCINT - Vice General Manager of Organization
+- NSTC - Full-Time Project Assistant
 
 
 # Statistics
@@ -51,4 +52,4 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 ![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kouke0638&layout=compact&theme=vue-dark)
   
   
-### Copyright © 2023 MouchiLab(Mouchi/Kouke). All rights reserved.
+### Copyright © 2024 MouchiLab(Mouchi/Kouke). All rights reserved.
