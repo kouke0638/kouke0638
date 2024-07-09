@@ -31,6 +31,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - AI GO 2023
 - Smart manufacturing big data analysis 2023
 - Cyber Security Competition 2023
+- SITCON 2024
 - AI CUP 2024
 - 5th Kibo Robot Programming Challenge
 - AIS3 2024
