@@ -18,7 +18,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
   
 ## Activities Participation
   
-- 臺灣疫情儀表板
+- 2020 臺灣疫情大數據儀表板
 - SITCON 2021
 - Taipei Hackathon 2021
 - g0v Sch001 DEMO DAY 2021-2022
