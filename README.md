@@ -18,6 +18,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
   
 ## Activities Participation
   
+- 臺灣疫情儀表板
 - SITCON 2021
 - Taipei Hackathon 2021
 - g0v Sch001 DEMO DAY 2021-2022
@@ -30,6 +31,9 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - AI GO 2023
 - Smart manufacturing big data analysis 2023
 - Cyber Security Competition 2023
+- AI CUP 2024
+- 5th Kibo Robot Programming Challenge
+- AIS3 2024
 
 ## Experience
 
@@ -44,7 +48,8 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - High School Career Exploration - Teaching Assistant.
 - SCINT - Vice General Manager of Organization
 - NSTC - Full-Time Project Assistant
-
+- APCS Simulation - Administrative Manager
+- THJCC CTF - Administrative Manager
 
 # Statistics
   
