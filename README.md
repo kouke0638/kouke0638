@@ -32,6 +32,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - SITCON 2024
 - AI CUP 2024
 - 5th Kibo Robot Programming Challenge
+- Taiwan PresidentialHackathon 2024
 - AIS3 MyFirstCTF 2024
 - AIS3 2024
 - HITCON CTF 2024
