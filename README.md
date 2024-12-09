@@ -5,16 +5,14 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 
 ## Learning
   
-- C/C++
+- C
 - Python
-- Java
 - Javascript
 - Network Architecture(SNA)
 - ML/AI
 - Social Psychology
-- Economics
-- Architecture design
-
+- Psychology of Art
+- Information Education
   
 ## Activities Participation
   
@@ -35,6 +33,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - AI CUP 2024
 - 5th Kibo Robot Programming Challenge
 - AIS3 2024
+- HITCON 2024
 
 ## Experience
 
@@ -51,6 +50,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - NSTC - Full-Time Project Assistant
 - APCS Simulation - Administrative Manager
 - THJCC CTF - Administrative Manager
+- SITCON 2025 - Production team member
 
 # Statistics
   
