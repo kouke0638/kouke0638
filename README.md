@@ -40,6 +40,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - HITCON re:CTF 2024
 - Aegis CTF 2024
 - Smart manufacturing big data analysis 2024
+- THJCC CTF (2th)
 
 ## Experience
 
