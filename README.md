@@ -13,10 +13,20 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - Social Psychology
 - Psychology of Art
 - Information Education
-  
-## Activities Participation
-  
+
+## My Project
+
+- 校務輔助工具
+- 定點式遠距體溫檢測裝置
+- 校園群聚分析系統
+- 疫情快訊推波系統
+- 臺灣口罩地圖
 - 2020 臺灣疫情大數據儀表板
+- 數位探空感測傳輸系統
+- 雲原生多聚合教學系統
+
+## Activities Participation
+
 - SITCON 2021
 - Taipei Hackathon 2021
 - g0v Sch001 DEMO DAY 2021-2022
