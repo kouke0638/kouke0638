@@ -24,14 +24,14 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - NHDK Algorithm Camp
 - COSCUP 2022
 - HITCON 2022
-- AI CUP 2022 Crop Status Survey Image Recognition
+- AI CUP 2022
 - COSCUP 2023
 - AI GO 2023
 - Smart manufacturing big data analysis 2023
 - Cyber Security Competition 2023
 - SITCON 2024
 - AI CUP 2024
-- 5th Kibo Robot Programming Challenge
+- JAXA Robot Programming Challenge 2024
 - Taiwan PresidentialHackathon 2024
 - AIS3 MyFirstCTF 2024
 - AIS3 2024
@@ -39,7 +39,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - HITCON 2024
 - HITCON re:CTF 2024
 - Aegis CTF 2024
-- Smart manufacturing big data analysis 2024
+- Smart big data analysis 2024
 - THJCC CTF (2th)
 
 ## Experience
