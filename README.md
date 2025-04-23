@@ -19,11 +19,12 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - 校務輔助工具
 - 定點式遠距體溫檢測裝置
 - 校園群聚分析系統
-- 疫情快訊推波系統
+- 疫情快訊推播系統
 - 臺灣口罩地圖
 - 2020 臺灣疫情大數據儀表板
 - 數位探空感測傳輸系統
 - 雲原生多聚合教學系統
+- 自動化機器學習整合框架
 
 ## Activities Participation
 
