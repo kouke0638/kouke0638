@@ -1,7 +1,13 @@
 # About me and myself
 
-## I am from Taipei, and I am a freelance developer
-I like innovative design and cloud smart IoT integration. In addition, I am also an editor working in the image and audio processing industry.
+### 👋 Hello!
+I’m a freelance software developer based in Taipei.
+
+### 💡 What I Do
+I build web and IoT applications that blend creative design with cloud services. From brainstorming and prototyping to deployment, I handle both front-end and back-end work—making sure everything runs smoothly, stays secure, and feels great for users.
+
+### ✍️ Also…
+I serve as an editor in the image & audio processing field: reviewing content quality, streamlining editorial workflows, and teaming up with developers to integrate the latest algorithms and tools.
 
 ## Learning
   
@@ -50,7 +56,7 @@ I like innovative design and cloud smart IoT integration. In addition, I am also
 - HITCON 2024
 - HITCON re:CTF 2024
 - Aegis CTF 2024
-- Smart big data analysis 2024
+- Smart manufacturing big data analysis 2024
 - THJCC CTF (2th)
 
 ## Experience
