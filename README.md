@@ -58,6 +58,9 @@ I serve as an editor in the image & audio processing field: reviewing content qu
 - Aegis CTF 2024
 - Smart manufacturing big data analysis 2024
 - THJCC CTF (2th)
+- AIS3 TAIWANHolyHigh 2024
+- Smart manufacturing big data analysis 2025
+- THJCC CTF (3th)
 
 ## Experience
 
@@ -75,5 +78,6 @@ I serve as an editor in the image & audio processing field: reviewing content qu
 - APCS Simulation - Administrative Manager
 - THJCC CTF - Administrative Manager
 - SITCON 2025 - Production team member
+- SITCON 2026 - Production team member
 
 ### Copyright © 2026 MouchiLab(Mouchi/Kouke). All rights reserved.
