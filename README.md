@@ -76,10 +76,4 @@ I serve as an editor in the image & audio processing field: reviewing content qu
 - THJCC CTF - Administrative Manager
 - SITCON 2025 - Production team member
 
-# Statistics
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kouke0638&layout=compact&theme=vue-dark)
-![GitHub - Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kouke0638&layout=compact&theme=vue-dark)
-  
-  
-### Copyright © 2025 MouchiLab(Mouchi/Kouke). All rights reserved.
+### Copyright © 2026 MouchiLab(Mouchi/Kouke). All rights reserved.
