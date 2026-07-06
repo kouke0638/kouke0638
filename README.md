@@ -14,7 +14,7 @@ I serve as an editor in the image & audio processing field: reviewing content qu
 - C
 - Python
 - Javascript
-- Network Architecture(SNA)
+- Network Architecture
 - ML/AI
 - Social Psychology
 - Psychology of Art
